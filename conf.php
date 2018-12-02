@@ -5,4 +5,5 @@
 	define('PWD', 'MY_PWD');
 
 	// Comentarios.
+	// Otros comentarios hechos por mí.
 ?>
