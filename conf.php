@@ -3,4 +3,6 @@
 	define('DB', 'MY_DB');
 	define('USER', 'MY_USER');
 	define('PWD', 'MY_PWD');
+
+	// Comentarios.
 ?>
